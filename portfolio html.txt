@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Portfolio Website</title>
+    <!----CSS link----->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+ 
+    <div class="hero">
+       
+        
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Service</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="content">
+            <span class="title"> Web Developer</span>
+            <h1>Hello, I’m <span>Aashlesha Kondgire</span></h1>
+            <p>A hardworking engineering undergraduate specialized in Computer Science Engineering, who try to learn something from every new opportunity and always try to give my best in whatever I am doing</p>
+            <a href="#" class="btn">Download CV</a>
+        </div>
+        <div class="picture">
+            <img src="IMG_20220220_074233_119.jpg"
+            style="width:300px; height:400px"
+            alt="Aashlesha Kondgire" position ="right">
+        </div>  
+    </div>
+
+</body>
+</html>
